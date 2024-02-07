@@ -45,11 +45,19 @@ Disini saya akan sharing tentang tatacara cara install game super mario bros di 
   kubectl port-forward supermariobros-774bcbdf89-f4bgj 3000:8080
 ```
 - nanti hasilnya seperti ini
-<br />
+
 
 ![Screenshot dahsbord](https://drive.google.com/uc?id=1VXbHxWFBAlXn5Zc-noJhmtBiKJLd14RB)
 
 
+- lalu buka browser dengan url :
+```bash
+  http://127.0.0.1:3000/
+```
+- game super mario siap dimainkan 😄
 
-## 🚀 About Me
-Thankyou for read .. 
+  
+![Screenshot dahsbord](https://drive.google.com/uc?id=1JFI8MDwjtjtC138rnaNV-oyOm6eIq2QK)
+
+## 🚀 End .. 
+
